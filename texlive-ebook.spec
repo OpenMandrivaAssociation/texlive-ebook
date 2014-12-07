@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-ebook
 Version:	20131012
-Release:	7
+Release:	8
 Summary:	TeXLive ebook package
 Group:		Publishing
 URL:		http://tug.org/texlive
