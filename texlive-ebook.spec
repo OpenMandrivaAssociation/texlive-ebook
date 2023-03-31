@@ -1,6 +1,6 @@
 Name:		texlive-ebook
 Version:	29466
-Release:	1
+Release:	2
 Summary:	TeXLive ebook package
 Group:		Publishing
 URL:		http://tug.org/texlive
